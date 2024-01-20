@@ -18,7 +18,7 @@ Para configurar e iniciar o projeto frontend, acesse a pasta `front` e siga as i
 
 ### Backend (NestJS)
 
-Para configurar e iniciar o projeto backend, acesse a pasta `metric-client` e siga as instruções no README específico dessa pasta. Você pode encontrar o README aqui: [README Backend](back/README.md).
+Para configurar e iniciar o projeto backend, acesse a pasta `back` e siga as instruções no README específico dessa pasta. Você pode encontrar o README aqui: [README Backend](back/README.md).
 
 
 # Instruções de Configuração do Banco de Dados
