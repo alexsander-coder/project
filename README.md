@@ -1,6 +1,6 @@
 # Project
 
-Este repositório contém dois projetos principais, um frontend desenvolvido em ReactJS (`front`) e um backend desenvolvido em NestJS (`metric-client`).
+Este repositório contém dois projetos principais, um frontend desenvolvido em ReactJS (`front`) e um backend desenvolvido em NestJS (`back`).
 
 ## Estrutura do Repositório
 
