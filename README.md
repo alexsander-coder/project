@@ -38,6 +38,10 @@ CREATE TABLE usuarios (
     coordenadas varchar(80) NULL,
     CONSTRAINT usuarios_pkey PRIMARY KEY (id)
 );
+
+INSERT INTO usuarios (nome, email, telefone, coordenadas)
+VALUES ('empresa', 'empresa@empresa.com', 626262622, '-15.788371756563562,-47.90382385253907');
+
 ```
 
 Esta tabela irá armazenar informações dos usuários, incluindo nome, email, telefone e coordenadas.
