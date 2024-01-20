@@ -20,13 +20,6 @@ Para configurar e iniciar o projeto frontend, acesse a pasta `front` e siga as i
 
 Para configurar e iniciar o projeto backend, acesse a pasta `metric-client` e siga as instruções no README específico dessa pasta. Você pode encontrar o README aqui: [README Backend](back/README.md).
 
-## Contribuições
-
-Sinta-se à vontade para contribuir para qualquer um dos projetos. Para mais informações, consulte os arquivos README individuais em cada pasta.
-
-## Suporte
-
-Para questões ou suporte, abra uma issue neste repositório ou entre em contato com a equipe de desenvolvimento.
 
 # Instruções de Configuração do Banco de Dados
 
