@@ -30,7 +30,7 @@ Para configurar o banco de dados necessário para este projeto, siga as instruç
 Execute o seguinte comando SQL para criar a tabela `usuarios` no banco de dados:
 
 ```sql
-CREATE TABLE public.usuarios (
+CREATE TABLE usuarios (
     id serial4 NOT NULL,
     nome varchar(100) NOT NULL,
     email varchar(100) NOT NULL,
@@ -44,4 +44,4 @@ Esta tabela irá armazenar informações dos usuários, incluindo nome, email, t
 
 ## Configuração Adicional
 
-Certifique-se de que seu banco de dados esteja corretamente configurado e acessível pelos projetos front e metric-client. Para detalhes específicos sobre a configuração do banco de dados nos projetos, consulte os READMEs individuais.
+Certifique-se de que seu banco de dados esteja corretamente configurado e acessível pelos projetos front e back. Para detalhes específicos sobre a configuração do banco de dados nos projetos, consulte os READMEs individuais.
